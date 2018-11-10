@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-class fibonacci{
+class main18161223{
 	public static void main(String[] args) {
    int n = Integer.parseInt( JOptionPane.showInputDialog("ultima posision"));
    int n1= 1;
