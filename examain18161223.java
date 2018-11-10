@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
-class nuevo1main18161223{
+class examain18161223{
 	public static void main(String[] args) {
-   int n = Integer.parseInt( JOptionPane.showInputDialog("ultima posision"));
+   int n = Integer.parseInt(args[0]);
    int n1= 1;
    int n2= 1;
    int total=0;
